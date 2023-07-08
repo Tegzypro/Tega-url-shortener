@@ -60,9 +60,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 This project was made possible by:
 
-AltSchool Africa School of Engineering
-Caleb Emelike's Flask Lessons
-Ze Austin AltSchool Python Repo
-Othneil Drew's README Template
-NovelTech media
+AltSchool Africa School of Engineering, 
+Caleb Emelike's Flask Lessons, 
+Ze Austin AltSchool Python Repo, 
+Othneil Drew's README Template, 
+NovelTech media, 
 Stack Overflow
